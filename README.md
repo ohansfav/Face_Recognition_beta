@@ -49,12 +49,14 @@
    ```
 
 ## 📱 Usage Guide
-
+- main.py to start program
 ### 👤 User Registration
 1. Click "Register New Face"
 2. Enter Student/Staff ID
 3. Position face in frame
 4. Press 'S' to save
+5. press 'q' to quit
+## CasE sEnsItIvE
 
 ### ✅ Mark Attendance
 1. Click "Mark Attendance"
@@ -67,6 +69,9 @@
 - 📧 Send email notifications
 - 👥 Manage user database
 - 📈 View analytics dashboard
+! NOTE
+- Admin username: admin
+- 🔐 password: admin
 
 ## 🎨 Interface Preview
 
@@ -124,7 +129,7 @@ System settings can be customized in:
 ## 🤝 Support & Contribution
 
 ### Getting Help
-- 📧 Email: ohanugofavour@gmail.com
+- 📧 Email: support@example.com
 - 🐛 Issue Tracker: GitHub Issues
 - 💬 Discussion: GitHub Discussions
 
@@ -136,7 +141,7 @@ System settings can be customized in:
 5. Create a Pull Request
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under MIT License.
 
 ---
 
@@ -144,6 +149,6 @@ This project is licensed under the MIT License.
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [ohansfav](https://github.com/ohansfav) and copiliot
+Made with ❤️ by [ohansfav](https://github.com/ohansfav) #### and copiliot
 
 </div>
