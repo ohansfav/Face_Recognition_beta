@@ -129,7 +129,7 @@ System settings can be customized in:
 ## 🤝 Support & Contribution
 
 ### Getting Help
-- 📧 Email: support@example.com
+- 📧 Email: ohanugofavour@gmail.com
 - 🐛 Issue Tracker: GitHub Issues
 - 💬 Discussion: GitHub Discussions
 
