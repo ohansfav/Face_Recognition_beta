@@ -149,6 +149,6 @@ This project is licensed under MIT License.
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [ohansfav](https://github.com/ohansfav) #### and copiliot
+Made with ❤️ by [ohansfav](https://github.com/ohansfav) and copiliot
 
 </div>
