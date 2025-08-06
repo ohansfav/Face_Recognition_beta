@@ -124,7 +124,7 @@ System settings can be customized in:
 ## 🤝 Support & Contribution
 
 ### Getting Help
-- 📧 Email: support@example.com
+- 📧 Email: ohanugofavour@gmail.com
 - 🐛 Issue Tracker: GitHub Issues
 - 💬 Discussion: GitHub Discussions
 
@@ -144,6 +144,6 @@ This project is licensed under the MIT License.
 
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [ohansfav](https://github.com/ohansfav)
+Made with ❤️ by [ohansfav](https://github.com/ohansfav) and copiliot
 
 </div>
