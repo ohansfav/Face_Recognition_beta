@@ -1,0 +1,131 @@
+1489 INFO: PyInstaller: 6.14.2, contrib hooks: 2025.7
+1490 INFO: Python: 3.8.20 (conda)
+1505 INFO: Platform: Windows-10-10.0.22631-SP0
+1505 INFO: Python environment: C:\Users\ohanu\.conda\envs\face_recognition_env
+1507 INFO: wrote C:\Projects\Face_Recognition\AI_Attendance_System.spec
+1531 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Scripts',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\python38.zip',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\DLLs',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env',
+ 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\win32',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\win32\\lib',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\Pythonwin',
+ 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\setuptools\\_vendor',
+ 'C:\\Projects\\Face_Recognition']
+4164 INFO: Appending 'datas' from .spec
+4173 INFO: checking Analysis
+4173 INFO: Building Analysis because Analysis-00.toc is non existent
+4174 INFO: Running Analysis Analysis-00.toc
+4174 INFO: Target bytecode optimization level: 0
+4174 INFO: Initializing module dependency graph...
+4179 INFO: Initializing module graph hook caches...
+4274 INFO: Analyzing modules for base_library.zip ...
+7926 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+9861 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+11375 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+12741 INFO: Caching module dependency graph...
+12826 INFO: Looking for Python shared library...
+12842 INFO: Using Python shared library: C:\Users\ohanu\.conda\envs\face_recognition_env\python38.dll
+12843 INFO: Analyzing C:\Projects\Face_Recognition\main.py
+12893 INFO: Processing pre-find-module-path hook 'hook-tkinter.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+12895 INFO: TclTkInfo: initializing cached Tcl/Tk info...
+13395 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+13435 INFO: Processing standard module hook 'hook-sqlite3.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+15117 INFO: Processing standard module hook 'hook-cv2.py' from 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+15122 WARNING: collect_dynamic_libs - skipping library collection for module 'cv2' as it is not a package.
+15663 WARNING: collect_data_files - skipping data collection for module 'cv2' as it is not a package.
+15677 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+15790 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+18200 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+19659 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+19898 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+20997 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+21164 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+21644 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+23693 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+23695 INFO: SetuptoolsInfo: initializing cached setuptools info...
+33020 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+33209 INFO: Processing standard module hook 'hook-pkg_resources.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+35068 INFO: Processing pre-safe-import-module hook 'hook-jaraco.text.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+35069 INFO: Setuptools: 'jaraco.text' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.text'!
+35079 INFO: Processing standard module hook 'hook-setuptools.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+35098 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+35100 INFO: Processing pre-find-module-path hook 'hook-distutils.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+35761 INFO: Processing standard module hook 'hook-distutils.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+35792 INFO: Processing standard module hook 'hook-distutils.util.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+35841 INFO: Processing standard module hook 'hook-_osx_support.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+35881 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+35882 INFO: Setuptools: 'typing_extensions' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.typing_extensions'!
+36076 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36076 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+36250 INFO: Processing pre-safe-import-module hook 'hook-jaraco.functools.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36251 INFO: Setuptools: 'jaraco.functools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.functools'!
+36265 INFO: Processing pre-safe-import-module hook 'hook-importlib_metadata.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36298 INFO: Processing standard module hook 'hook-importlib_metadata.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+36304 INFO: Processing pre-safe-import-module hook 'hook-zipp.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36369 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36370 INFO: Setuptools: 'importlib_resources' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.importlib_resources'!
+36677 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+36679 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+37387 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+37630 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+37639 INFO: Processing pre-safe-import-module hook 'hook-jaraco.context.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+37640 INFO: Setuptools: 'jaraco.context' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco.context'!
+37652 INFO: Processing pre-safe-import-module hook 'hook-backports.tarfile.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+37654 INFO: Setuptools: 'backports.tarfile' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.backports.tarfile'!
+37772 INFO: Processing standard module hook 'hook-backports.py' from 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+37775 INFO: Processing pre-safe-import-module hook 'hook-platformdirs.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+37776 INFO: Setuptools: 'platformdirs' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.platformdirs'!
+37903 INFO: Analyzing hidden import 'reports'
+37976 INFO: Processing module hooks (post-graph stage)...
+38336 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+39214 INFO: Processing standard module hook 'hook-_tkinter.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks'
+39245 INFO: Performing binary vs. data reclassification (1053 entries)
+39758 INFO: Looking for ctypes DLLs
+39786 INFO: Analyzing run-time hooks ...
+39792 INFO: Including run-time hook 'pyi_rth_pkgres.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+39798 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+39801 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+39803 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+39805 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+39808 INFO: Including run-time hook 'pyi_rth__tkinter.py' from 'C:\\Users\\ohanu\\AppData\\Roaming\\Python\\Python38\\site-packages\\PyInstaller\\hooks\\rthooks'
+42807 INFO: Looking for dynamic libraries
+C:\Users\ohanu\AppData\Roaming\Python\Python38\site-packages\PyInstaller\building\build_main.py:227: UserWarning: The numpy.array_api submodule is still experimental. See NEP 47.
+  __import__(package)
+46550 INFO: Extra DLL search directories (AddDllDirectory): []
+46551 INFO: Extra DLL search directories (PATH): []
+53581 WARNING: Library not found: could not resolve 'impi.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_blacs_intelmpi_lp64.2.dll'.
+53581 WARNING: Library not found: could not resolve 'msmpi.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_blacs_msmpi_ilp64.2.dll'.
+53581 WARNING: Library not found: could not resolve 'msmpi.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_blacs_msmpi_lp64.2.dll'.
+53582 WARNING: Library not found: could not resolve 'pgmath.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_pgi_thread.2.dll'.
+53582 WARNING: Library not found: could not resolve 'pgf90.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_pgi_thread.2.dll'.
+53582 WARNING: Library not found: could not resolve 'pgc.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_pgi_thread.2.dll'.
+53582 WARNING: Library not found: could not resolve 'ur_loader.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\omptarget.rtl.unified_runtime.dll'.
+53583 WARNING: Library not found: could not resolve 'impi.dll', dependency of 'C:\\Users\\ohanu\\.conda\\envs\\face_recognition_env\\Library\\bin\\mkl_blacs_intelmpi_ilp64.2.dll'.
+53832 INFO: Warnings written to C:\Projects\Face_Recognition\build\AI_Attendance_System\warn-AI_Attendance_System.txt
+54015 INFO: Graph cross-reference written to C:\Projects\Face_Recognition\build\AI_Attendance_System\xref-AI_Attendance_System.html
+54152 INFO: checking PYZ
+54153 INFO: Building PYZ because PYZ-00.toc is non existent
+54153 INFO: Building PYZ (ZlibArchive) C:\Projects\Face_Recognition\build\AI_Attendance_System\PYZ-00.pyz
+55348 INFO: Building PYZ (ZlibArchive) C:\Projects\Face_Recognition\build\AI_Attendance_System\PYZ-00.pyz completed successfully.
+55479 INFO: checking PKG
+55479 INFO: Building PKG because PKG-00.toc is non existent
+55479 INFO: Building PKG (CArchive) AI_Attendance_System.pkg
+228834 INFO: Building PKG (CArchive) AI_Attendance_System.pkg completed successfully.
+228920 INFO: Bootloader C:\Users\ohanu\AppData\Roaming\Python\Python38\site-packages\PyInstaller\bootloader\Windows-64bit-intel\run_d.exe
+228920 INFO: checking EXE
+228920 INFO: Building EXE because EXE-00.toc is non existent
+228920 INFO: Building EXE from EXE-00.toc
+228920 INFO: Copying bootloader EXE to C:\Projects\Face_Recognition\dist\AI_Attendance_System.exe
+229067 INFO: Copying icon to EXE
+229131 INFO: Copying 0 resources to EXE
+229131 INFO: Embedding manifest in EXE
+229196 INFO: Appending PKG archive to EXE
+229658 INFO: Fixing EXE headers
+230669 WARNING: Execution of 'set_exe_build_timestamp' failed on attempt #1 / 20: PermissionError(13, 'Permission denied'). Retrying in 0.05 second(s)...
+234207 INFO: Building EXE from EXE-00.toc completed successfully.
+234365 INFO: Build complete! The results are available in: C:\Projects\Face_Recognition\dist
